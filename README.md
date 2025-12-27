@@ -14,7 +14,7 @@ Here, that assumption does not exist.
 Schrod was not designed to be pretty, comfortable, or complete. It was designed to **work where it shouldn't work**.
 
 As far as we know, there are no “modern” kernels written in Nim following this approach. Nimkernel exists, but it is old, and other projects found are mostly direct forks. Schrod follows a different path: less compatibility, more control.
-![Schrod boot screen](assets/schrod.png)
+![Schrod boot screen](docs/assets/schrod.png)
 
 ---
 
