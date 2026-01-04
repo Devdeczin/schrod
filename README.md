@@ -149,16 +149,15 @@ Organize the objects as you prefer. In the current project:
 ### 4. Linking
 
 Now comes the part that really matters:
+**WARN**: DO NOT LINK ANY @m..s..s<...>.c, ERASE THESE FILES
 
 ```bash
 ld -T bin/linker.ld -m elf_i386 \
   bin/boot.o \
   bin/kernel_stubs.o \
   bin/nim_runtime_stubs.o \
-  bin/nixOF/@mkmain.nim. o \
-  bin/nixOF/@mioutils.nim.o \
-  bin/nixOF/@mpythonfy.nim.o \
-  bin/nixOF/@mthemes.nim.o \
+  bin/nixOF/*.o \
+  -o kernelIsoCUSTOM.elf
   # add other objects here if necessary \
 ```
 
@@ -223,6 +222,9 @@ These projects **are not promises**, but natural ideas that arise from Schrod (I
 - **Undermetal**
     A bare-metal game inspired by Undertale, running directly on Schrod.
     It includes simple battles, a life system, and a visual style similar to tools such as `nano` using VGA.
+
+- **MOONAD**
+    An RPG game based on MOONAD, which is an Easter egg within the code, doesn't have much to say.
 
 - **CatGhostOS**
     An operating system built on Schrod, seeking a technical middle ground between iOS/Darwin, Windows, and Linux.

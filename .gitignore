@@ -2,5 +2,6 @@
 *.iso
 *.elf
 
-_src/NIX/future/
-_src/NoCAT/future/
+# future contém coisas experimentais e implementações futuras
+**/future/
+__annotations__.md
