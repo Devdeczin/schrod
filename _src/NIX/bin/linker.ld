@@ -1,31 +1,34 @@
 ENTRY(_start)
 
-SECTIONS {
-  . = 1M;
+SECTIONS
+{
+    /* multiboot DEVE estar no início do ELF */
+    .multiboot :
+    {
+        KEEP(*(.multiboot))
+    }
 
-  .multiboot :
-  {
-    *(.multiboot)
-  }
+    /* agora sim, memória alta */
+    . = 1M;
 
-  .text :
-  {
-    *(.text*)
-  }
+    .text :
+    {
+        *(.text*)
+    }
 
-  .rodata :
-  {
-    *(.rodata*)
-  }
+    .rodata :
+    {
+        *(.rodata*)
+    }
 
-  .data :
-  {
-    *(.data*)
-  }
+    .data :
+    {
+        *(.data*)
+    }
 
-  .bss :
-  {
-    *(COMMON)
-    *(.bss*)
-  }
+    .bss :
+    {
+        *(COMMON)
+        *(.bss*)
+    }
 }

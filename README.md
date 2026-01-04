@@ -160,7 +160,6 @@ ld -T bin/linker.ld -m elf_i386 \
   bin/nixOF/@mpythonfy.nim.o \
   bin/nixOF/@mthemes.nim.o \
   # add other objects here if necessary \
-  -o kernelIsoCUSTOM.elf
 ```
 
 If that worked, you have a valid ELF kernel.

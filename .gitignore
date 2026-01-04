@@ -1,3 +1,6 @@
 *.o
 *.iso
 *.elf
+
+_src/NIX/future/
+_src/NoCAT/future/

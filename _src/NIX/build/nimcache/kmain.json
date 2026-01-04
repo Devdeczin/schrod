@@ -1,0 +1,101 @@
+{
+  "cacheVersion": "D20210525T193831",
+  "outputFile": "/home/devdeco/Dev/schrod/_src/NIX/kmain",
+  "compile": [
+    [
+      "/home/devdeco/Dev/schrod/_src/NIX/build/nimcache/@mmodules@sdrivers@svga.nim.c",
+      "gcc -c  -w -fmax-errors=3 -ffreestanding -fno-stack-protector -fno-builtin -O3 -fno-strict-aliasing -fno-ident   -I/home/devdeco/finn/lib -I/home/devdeco/Dev/schrod/_src/NIX -o /home/devdeco/Dev/schrod/_src/NIX/build/nimcache/@mmodules@sdrivers@svga.nim.c.o /home/devdeco/Dev/schrod/_src/NIX/build/nimcache/@mmodules@sdrivers@svga.nim.c"
+    ],
+    [
+      "/home/devdeco/Dev/schrod/_src/NIX/build/nimcache/@mmodules@sarch@sioutils.nim.c",
+      "gcc -c  -w -fmax-errors=3 -ffreestanding -fno-stack-protector -fno-builtin -O3 -fno-strict-aliasing -fno-ident   -I/home/devdeco/finn/lib -I/home/devdeco/Dev/schrod/_src/NIX -o /home/devdeco/Dev/schrod/_src/NIX/build/nimcache/@mmodules@sarch@sioutils.nim.c.o /home/devdeco/Dev/schrod/_src/NIX/build/nimcache/@mmodules@sarch@sioutils.nim.c"
+    ],
+    [
+      "/home/devdeco/Dev/schrod/_src/NIX/build/nimcache/@m..@s..@s..@s..@sfinn@slib@ssystem@sassertions.nim.c",
+      "gcc -c  -w -fmax-errors=3 -ffreestanding -fno-stack-protector -fno-builtin -O3 -fno-strict-aliasing -fno-ident   -I/home/devdeco/finn/lib -I/home/devdeco/Dev/schrod/_src/NIX -o /home/devdeco/Dev/schrod/_src/NIX/build/nimcache/@m..@s..@s..@s..@sfinn@slib@ssystem@sassertions.nim.c.o /home/devdeco/Dev/schrod/_src/NIX/build/nimcache/@m..@s..@s..@s..@sfinn@slib@ssystem@sassertions.nim.c"
+    ],
+    [
+      "/home/devdeco/Dev/schrod/_src/NIX/build/nimcache/@m..@s..@s..@s..@sfinn@slib@ssystem.nim.c",
+      "gcc -c  -w -fmax-errors=3 -ffreestanding -fno-stack-protector -fno-builtin -O3 -fno-strict-aliasing -fno-ident   -I/home/devdeco/finn/lib -I/home/devdeco/Dev/schrod/_src/NIX -o /home/devdeco/Dev/schrod/_src/NIX/build/nimcache/@m..@s..@s..@s..@sfinn@slib@ssystem.nim.c.o /home/devdeco/Dev/schrod/_src/NIX/build/nimcache/@m..@s..@s..@s..@sfinn@slib@ssystem.nim.c"
+    ],
+    [
+      "/home/devdeco/Dev/schrod/_src/NIX/build/nimcache/@mmodules@sarch@sgtd.nim.c",
+      "gcc -c  -w -fmax-errors=3 -ffreestanding -fno-stack-protector -fno-builtin -O3 -fno-strict-aliasing -fno-ident   -I/home/devdeco/finn/lib -I/home/devdeco/Dev/schrod/_src/NIX -o /home/devdeco/Dev/schrod/_src/NIX/build/nimcache/@mmodules@sarch@sgtd.nim.c.o /home/devdeco/Dev/schrod/_src/NIX/build/nimcache/@mmodules@sarch@sgtd.nim.c"
+    ],
+    [
+      "/home/devdeco/Dev/schrod/_src/NIX/build/nimcache/@mmodules@sarch@spic.nim.c",
+      "gcc -c  -w -fmax-errors=3 -ffreestanding -fno-stack-protector -fno-builtin -O3 -fno-strict-aliasing -fno-ident   -I/home/devdeco/finn/lib -I/home/devdeco/Dev/schrod/_src/NIX -o /home/devdeco/Dev/schrod/_src/NIX/build/nimcache/@mmodules@sarch@spic.nim.c.o /home/devdeco/Dev/schrod/_src/NIX/build/nimcache/@mmodules@sarch@spic.nim.c"
+    ],
+    [
+      "/home/devdeco/Dev/schrod/_src/NIX/build/nimcache/@mmodules@sarch@sui@sthemes.nim.c",
+      "gcc -c  -w -fmax-errors=3 -ffreestanding -fno-stack-protector -fno-builtin -O3 -fno-strict-aliasing -fno-ident   -I/home/devdeco/finn/lib -I/home/devdeco/Dev/schrod/_src/NIX -o /home/devdeco/Dev/schrod/_src/NIX/build/nimcache/@mmodules@sarch@sui@sthemes.nim.c.o /home/devdeco/Dev/schrod/_src/NIX/build/nimcache/@mmodules@sarch@sui@sthemes.nim.c"
+    ],
+    [
+      "/home/devdeco/Dev/schrod/_src/NIX/build/nimcache/@mmodules@slang@spythonfy.nim.c",
+      "gcc -c  -w -fmax-errors=3 -ffreestanding -fno-stack-protector -fno-builtin -O3 -fno-strict-aliasing -fno-ident   -I/home/devdeco/finn/lib -I/home/devdeco/Dev/schrod/_src/NIX -o /home/devdeco/Dev/schrod/_src/NIX/build/nimcache/@mmodules@slang@spythonfy.nim.c.o /home/devdeco/Dev/schrod/_src/NIX/build/nimcache/@mmodules@slang@spythonfy.nim.c"
+    ],
+    [
+      "/home/devdeco/Dev/schrod/_src/NIX/build/nimcache/@mmodules@sactions@scrossworld.nim.c",
+      "gcc -c  -w -fmax-errors=3 -ffreestanding -fno-stack-protector -fno-builtin -O3 -fno-strict-aliasing -fno-ident   -I/home/devdeco/finn/lib -I/home/devdeco/Dev/schrod/_src/NIX -o /home/devdeco/Dev/schrod/_src/NIX/build/nimcache/@mmodules@sactions@scrossworld.nim.c.o /home/devdeco/Dev/schrod/_src/NIX/build/nimcache/@mmodules@sactions@scrossworld.nim.c"
+    ],
+    [
+      "/home/devdeco/Dev/schrod/_src/NIX/build/nimcache/@mmodules@smisc@spub.nim.c",
+      "gcc -c  -w -fmax-errors=3 -ffreestanding -fno-stack-protector -fno-builtin -O3 -fno-strict-aliasing -fno-ident   -I/home/devdeco/finn/lib -I/home/devdeco/Dev/schrod/_src/NIX -o /home/devdeco/Dev/schrod/_src/NIX/build/nimcache/@mmodules@smisc@spub.nim.c.o /home/devdeco/Dev/schrod/_src/NIX/build/nimcache/@mmodules@smisc@spub.nim.c"
+    ],
+    [
+      "/home/devdeco/Dev/schrod/_src/NIX/build/nimcache/@mmodules@sdrivers@srspd.nim.c",
+      "gcc -c  -w -fmax-errors=3 -ffreestanding -fno-stack-protector -fno-builtin -O3 -fno-strict-aliasing -fno-ident   -I/home/devdeco/finn/lib -I/home/devdeco/Dev/schrod/_src/NIX -o /home/devdeco/Dev/schrod/_src/NIX/build/nimcache/@mmodules@sdrivers@srspd.nim.c.o /home/devdeco/Dev/schrod/_src/NIX/build/nimcache/@mmodules@sdrivers@srspd.nim.c"
+    ],
+    [
+      "/home/devdeco/Dev/schrod/_src/NIX/build/nimcache/@mmodules@sdrivers@skeyboard.nim.c",
+      "gcc -c  -w -fmax-errors=3 -ffreestanding -fno-stack-protector -fno-builtin -O3 -fno-strict-aliasing -fno-ident   -I/home/devdeco/finn/lib -I/home/devdeco/Dev/schrod/_src/NIX -o /home/devdeco/Dev/schrod/_src/NIX/build/nimcache/@mmodules@sdrivers@skeyboard.nim.c.o /home/devdeco/Dev/schrod/_src/NIX/build/nimcache/@mmodules@sdrivers@skeyboard.nim.c"
+    ],
+    [
+      "/home/devdeco/Dev/schrod/_src/NIX/build/nimcache/@mmodules@sdrivers@stimer.nim.c",
+      "gcc -c  -w -fmax-errors=3 -ffreestanding -fno-stack-protector -fno-builtin -O3 -fno-strict-aliasing -fno-ident   -I/home/devdeco/finn/lib -I/home/devdeco/Dev/schrod/_src/NIX -o /home/devdeco/Dev/schrod/_src/NIX/build/nimcache/@mmodules@sdrivers@stimer.nim.c.o /home/devdeco/Dev/schrod/_src/NIX/build/nimcache/@mmodules@sdrivers@stimer.nim.c"
+    ],
+    [
+      "/home/devdeco/Dev/schrod/_src/NIX/build/nimcache/@mmodules@sarch@sirq.nim.c",
+      "gcc -c  -w -fmax-errors=3 -ffreestanding -fno-stack-protector -fno-builtin -O3 -fno-strict-aliasing -fno-ident   -I/home/devdeco/finn/lib -I/home/devdeco/Dev/schrod/_src/NIX -o /home/devdeco/Dev/schrod/_src/NIX/build/nimcache/@mmodules@sarch@sirq.nim.c.o /home/devdeco/Dev/schrod/_src/NIX/build/nimcache/@mmodules@sarch@sirq.nim.c"
+    ],
+    [
+      "/home/devdeco/Dev/schrod/_src/NIX/build/nimcache/@mmodules@sarch@sidt.nim.c",
+      "gcc -c  -w -fmax-errors=3 -ffreestanding -fno-stack-protector -fno-builtin -O3 -fno-strict-aliasing -fno-ident   -I/home/devdeco/finn/lib -I/home/devdeco/Dev/schrod/_src/NIX -o /home/devdeco/Dev/schrod/_src/NIX/build/nimcache/@mmodules@sarch@sidt.nim.c.o /home/devdeco/Dev/schrod/_src/NIX/build/nimcache/@mmodules@sarch@sidt.nim.c"
+    ],
+    [
+      "/home/devdeco/Dev/schrod/_src/NIX/build/nimcache/@mkmain.nim.c",
+      "gcc -c  -w -fmax-errors=3 -ffreestanding -fno-stack-protector -fno-builtin -O3 -fno-strict-aliasing -fno-ident   -I/home/devdeco/finn/lib -I/home/devdeco/Dev/schrod/_src/NIX -o /home/devdeco/Dev/schrod/_src/NIX/build/nimcache/@mkmain.nim.c.o /home/devdeco/Dev/schrod/_src/NIX/build/nimcache/@mkmain.nim.c"
+    ]
+  ],
+  "link": [
+    "/home/devdeco/Dev/schrod/_src/NIX/build/nimcache/@mmodules@sdrivers@svga.nim.c.o",
+    "/home/devdeco/Dev/schrod/_src/NIX/build/nimcache/@mmodules@sarch@sioutils.nim.c.o",
+    "/home/devdeco/Dev/schrod/_src/NIX/build/nimcache/@m..@s..@s..@s..@sfinn@slib@ssystem@sassertions.nim.c.o",
+    "/home/devdeco/Dev/schrod/_src/NIX/build/nimcache/@m..@s..@s..@s..@sfinn@slib@ssystem.nim.c.o",
+    "/home/devdeco/Dev/schrod/_src/NIX/build/nimcache/@mmodules@sarch@sgtd.nim.c.o",
+    "/home/devdeco/Dev/schrod/_src/NIX/build/nimcache/@mmodules@sarch@spic.nim.c.o",
+    "/home/devdeco/Dev/schrod/_src/NIX/build/nimcache/@mmodules@sarch@sui@sthemes.nim.c.o",
+    "/home/devdeco/Dev/schrod/_src/NIX/build/nimcache/@mmodules@slang@spythonfy.nim.c.o",
+    "/home/devdeco/Dev/schrod/_src/NIX/build/nimcache/@mmodules@sactions@scrossworld.nim.c.o",
+    "/home/devdeco/Dev/schrod/_src/NIX/build/nimcache/@mmodules@smisc@spub.nim.c.o",
+    "/home/devdeco/Dev/schrod/_src/NIX/build/nimcache/@mmodules@sdrivers@srspd.nim.c.o",
+    "/home/devdeco/Dev/schrod/_src/NIX/build/nimcache/@mmodules@sdrivers@skeyboard.nim.c.o",
+    "/home/devdeco/Dev/schrod/_src/NIX/build/nimcache/@mmodules@sdrivers@stimer.nim.c.o",
+    "/home/devdeco/Dev/schrod/_src/NIX/build/nimcache/@mmodules@sarch@sirq.nim.c.o",
+    "/home/devdeco/Dev/schrod/_src/NIX/build/nimcache/@mmodules@sarch@sidt.nim.c.o",
+    "/home/devdeco/Dev/schrod/_src/NIX/build/nimcache/@mkmain.nim.c.o"
+  ],
+  "linkcmd": "gcc   -o /home/devdeco/Dev/schrod/_src/NIX/kmain /home/devdeco/Dev/schrod/_src/NIX/build/nimcache/@mmodules@sdrivers@svga.nim.c.o /home/devdeco/Dev/schrod/_src/NIX/build/nimcache/@mmodules@sarch@sioutils.nim.c.o /home/devdeco/Dev/schrod/_src/NIX/build/nimcache/@m..@s..@s..@s..@sfinn@slib@ssystem@sassertions.nim.c.o /home/devdeco/Dev/schrod/_src/NIX/build/nimcache/@m..@s..@s..@s..@sfinn@slib@ssystem.nim.c.o /home/devdeco/Dev/schrod/_src/NIX/build/nimcache/@mmodules@sarch@sgtd.nim.c.o /home/devdeco/Dev/schrod/_src/NIX/build/nimcache/@mmodules@sarch@spic.nim.c.o /home/devdeco/Dev/schrod/_src/NIX/build/nimcache/@mmodules@sarch@sui@sthemes.nim.c.o /home/devdeco/Dev/schrod/_src/NIX/build/nimcache/@mmodules@slang@spythonfy.nim.c.o /home/devdeco/Dev/schrod/_src/NIX/build/nimcache/@mmodules@sactions@scrossworld.nim.c.o /home/devdeco/Dev/schrod/_src/NIX/build/nimcache/@mmodules@smisc@spub.nim.c.o /home/devdeco/Dev/schrod/_src/NIX/build/nimcache/@mmodules@sdrivers@srspd.nim.c.o /home/devdeco/Dev/schrod/_src/NIX/build/nimcache/@mmodules@sdrivers@skeyboard.nim.c.o /home/devdeco/Dev/schrod/_src/NIX/build/nimcache/@mmodules@sdrivers@stimer.nim.c.o /home/devdeco/Dev/schrod/_src/NIX/build/nimcache/@mmodules@sarch@sirq.nim.c.o /home/devdeco/Dev/schrod/_src/NIX/build/nimcache/@mmodules@sarch@sidt.nim.c.o /home/devdeco/Dev/schrod/_src/NIX/build/nimcache/@mkmain.nim.c.o    ",
+  "extraCmds": [],
+  "configFiles": [
+    "/home/devdeco/finn/config/nim.cfg",
+    "/home/devdeco/finn/config/config.nims"
+  ],
+  "stdinInput": false,
+  "projectIsCmd": false,
+  "cmdInput": "",
+  "currentDir": "/home/devdeco/Dev/schrod/_src/NIX",
+  "cmdline": "",
+  "depfiles": [],
+  "nimexe": ""
+}

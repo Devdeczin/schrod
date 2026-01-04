@@ -1,7 +1,7 @@
 # schrod/_src/NIX/panicoverride.nim
 {.define: nimNoMain.}
-
-import ioutils
+{.define: nimNoSystem.}
+import ../arch/ioutils
 
 proc panic*(msg: cstring) {.exportc, noreturn.} =
     asm "cli"

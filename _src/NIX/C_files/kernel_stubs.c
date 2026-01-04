@@ -1,4 +1,4 @@
-// schrod/_src/NIX/kernel_stubs.c
+// schrod/_src/NIX/C_files/kernel_stubs.c
 // me rendi a ele
 // maldito nim imprestável
 #include <stdint.h>
